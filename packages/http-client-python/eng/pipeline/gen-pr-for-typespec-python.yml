@@ -1,4 +1,4 @@
-name: Generate PR for typespec-python
+name: typespec - http-client-python - ci
 
 trigger:
   branches:
