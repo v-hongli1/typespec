@@ -1,5 +1,11 @@
 # Change Log - @typespec/http-client-python
 
+## 0.4.2
+
+### Bug Fixes
+
+- Ignore models only used as LRO envelope results
+
 ## 0.4.1
 
 ### Bug Fixes
